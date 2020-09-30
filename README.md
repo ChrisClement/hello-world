@@ -1,2 +1,2 @@
 # hello-world
-intro to git hub
+intro to git hub with the first edit added
